@@ -1,7 +1,7 @@
 <h2 align="center">Merhaba👋, ben Ünsal Durmuş</h2>
 <h3 align="center">Python & Django & React & Css</h3>
 
-- 📫 How to reach me **uunsaldurmus@gmail.com**
+📫 İletişim **uunsaldurmus@gmail.com**
   
 <h3 align="left">Benimle İletişime Geç:</h3>
 <p align="left">
