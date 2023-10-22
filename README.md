@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%bcnsal-durmu%c5%9f-8bb0b994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%bcnsal-durmu%c5%9f-8bb0b994/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/unsaldurmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/unsaldurmus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ünsal-durmuş-8bb0b994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ünsal-durmuş-8bb0b994" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/unsaldurmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unsaldurmus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
