@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba👋, ben Ünsal Durmuş</h1>
+<h2 align="center">Merhaba👋, ben Ünsal Durmuş</h2>
 <h3 align="center">Python & Django & React & Css</h3>
 
 <h3 align="left">Benimle İletişime Geç:</h3>
