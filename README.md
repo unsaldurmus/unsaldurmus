@@ -5,6 +5,7 @@
   
 <h3 align="left">Benimle İletişime Geç:</h3>
 <p align="left">
+📫 İletişim **uunsaldurmus@gmail.com**
 <a href="https://linkedin.com/in/ünsal-durmuş-8bb0b994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ünsal-durmuş-8bb0b994" height="30" width="40" /></a>
 <a href="https://www.youtube.com/unsaldurmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unsaldurmus" height="30" width="40" /></a>
 </p>
