@@ -1,5 +1,5 @@
 <h2 align="center">Merhaba👋, ben Ünsal Durmuş</h2>
-<h3 align="center">Python & Django & React & Css</h3>
+<h3 align="center">-- Python ~ Django ~ React ~ Css --</h3>
 
 
   
